@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin
 
-Sitemap: https://glamourshots.vercel.app/sitemap.xml
+Sitemap: https://booking-system-lilac-nu.vercel.app/sitemap.xml
